@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yanggang523/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Tree
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Two Pointers
 |  |
 | ------- |
