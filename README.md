@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Two Pointers
 |  |
