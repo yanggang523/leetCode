@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yanggang523/leetCode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 ## Dynamic Programming
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
