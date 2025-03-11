@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yanggang523/leetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yanggang523/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yanggang523/leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
