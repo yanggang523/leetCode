@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
