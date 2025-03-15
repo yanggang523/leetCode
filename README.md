@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
+| [2886-faulty-keyboard](https://github.com/yanggang523/leetCode/tree/master/2886-faulty-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2886-faulty-keyboard](https://github.com/yanggang523/leetCode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
