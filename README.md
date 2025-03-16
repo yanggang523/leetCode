@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yanggang523/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/yanggang523/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -150,5 +153,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
