@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yanggang523/leetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/yanggang523/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/yanggang523/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
