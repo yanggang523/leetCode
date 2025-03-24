@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yanggang523/leetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/yanggang523/leetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yanggang523/leetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yanggang523/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yanggang523/leetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
