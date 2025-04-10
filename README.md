@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/yanggang523/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [2191-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/yanggang523/leetCode/tree/master/2191-minimum-number-of-food-buckets-to-feed-the-hamsters) |
