@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yanggang523/leetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/yanggang523/leetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/yanggang523/leetCode/tree/master/0975-range-sum-of-bst) |
 ## Simulation
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
