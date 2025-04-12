@@ -10,11 +10,12 @@ class Solution {
                 b.add(nums2[i]);
             }
         }
-        int[] ans = new int[b.size()];
-        int index = 0;
-        for (int num : b){
-            ans[index++] = num;
-        }
-        return ans;
+        // int[] ans = new int[b.size()];
+        // int index = 0;
+        // for (int num : b){
+        //     ans[index++] = num;
+        // }
+        // return ans;
+        return b.stream().mapToInt(i->i).toArray();
     }
 }
