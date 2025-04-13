@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yanggang523/leetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/yanggang523/leetCode/tree/master/0890-lemonade-change) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yanggang523/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yanggang523/leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -200,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yanggang523/leetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
