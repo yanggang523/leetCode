@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yanggang523/leetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/yanggang523/leetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/yanggang523/leetCode/tree/master/1013-fibonacci-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/yanggang523/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yanggang523/leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/yanggang523/leetCode/tree/master/0231-power-of-two) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [2886-faulty-keyboard](https://github.com/yanggang523/leetCode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yanggang523/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
