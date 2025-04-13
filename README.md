@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yanggang523/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/yanggang523/leetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/yanggang523/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yanggang523/leetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yanggang523/leetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
