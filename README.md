@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yanggang523/leetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/yanggang523/leetCode/tree/master/0680-valid-palindrome-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yanggang523/leetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yanggang523/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/yanggang523/leetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yanggang523/leetCode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/yanggang523/leetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/yanggang523/leetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/yanggang523/leetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yanggang523/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yanggang523/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/yanggang523/leetCode/tree/master/0975-range-sum-of-bst) |
 ## Divide and Conquer
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
