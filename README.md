@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/yanggang523/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yanggang523/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/yanggang523/leetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yanggang523/leetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/yanggang523/leetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/yanggang523/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
