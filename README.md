@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yanggang523/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/yanggang523/leetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/yanggang523/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/yanggang523/leetCode/tree/master/0605-can-place-flowers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/yanggang523/leetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/yanggang523/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/yanggang523/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yanggang523/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yanggang523/leetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/yanggang523/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yanggang523/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/yanggang523/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yanggang523/leetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
