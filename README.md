@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yanggang523/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/yanggang523/leetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/yanggang523/leetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/yanggang523/leetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/yanggang523/leetCode/tree/master/0205-isomorphic-strings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yanggang523/leetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/yanggang523/leetCode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
